@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Alvaro Villamizar, I'm a Mathematician with a passion for Applied mathematics. I do some data analytic projects to polish my skills on programming and analysis, I also have a deep interest for engineering, and structural analysis. 
 <!--
 **AlvaroVillamizar/AlvaroVillamizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
